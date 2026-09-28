@@ -1,0 +1,1 @@
+[![CI for AQA Project](https://github.com/KirpitnevaElena84/HomeWorkAPI-CI/actions/workflows/ci.yml/badge.svg)](https://github.com/KirpitnevaElena84/HomeWorkAPI-CI/actions/workflows/ci.yml)
